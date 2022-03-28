@@ -57,6 +57,9 @@
                 {% unless site.spotify_username ==  %}
                 <a href="http://open.spotify.com/user/{{site.spotify_username}}" target="_blank" class="has-text-black"><i class="fab fa-spotify"></i></a>
                 {% endunless %}
+                {% unless site.soundcloud_userid ==  %}
+                <a href="http://soundcloud.com/user-{{site.soundcloud_userid}}" target="_blank" class="has-text-black"><i class="fab fa-soundcloud"></i></a>
+                {% endunless %}
             </div>
         </div>
     </div>
