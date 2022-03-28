@@ -46,7 +46,7 @@ disqus-shortname:
 # Name of the Author
 author-name: Zoe Elena
 # URL for the Image of the Author
-author-image: assets/images/zoe-bw.jpg
+author-image: /assets/images/zoe-bw.jpg
 # 60 Words About the Author
 author-about: Hi, I'm Zoe Elena. Here is what you need to know about me
 author-about2: # this is the second about text, below the buttons
