@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'zoe-elena.com'
+url: 
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: 'zoe-elena.com'
 
 # Title of the Site
 title: Zoe Elena
