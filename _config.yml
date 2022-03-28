@@ -37,6 +37,9 @@ spotify_username:
 # Google Analytics
 google-analytics: 
 
+# SEO
+google-site-verification: vKVlV3mSC608jqE_cb
+
 # Disqus
 disqus-shortname: 
 
